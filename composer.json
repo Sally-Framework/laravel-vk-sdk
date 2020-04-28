@@ -1,0 +1,18 @@
+{
+    "name": "sally/laravel-vk-sdk",
+    "description": "Laravel VK SDK lets you develop vk Bots in PHP easily! Supports Laravel out of the box.  VK API API is an HTTP-based interface created for developers keen on building bots for VK.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "n0tm",
+            "email": "38406016+n0tm@users.noreply.github.com"
+        }
+    ],
+    "require": {
+        "phpunit/phpunit": "^8.5"
+    },
+    "autoload": {
+        "Sally\\VkSdk": "src/"
+    }
+}
